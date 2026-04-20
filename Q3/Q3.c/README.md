@@ -7,3 +7,7 @@ https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/4df0696461746
 https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/0dad724cc79b398f7b6ee473aceda46e07c4f5f9/Q3/Q3.c/Truncate.png
 
 3. isNumeric o/p:
+https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/0d6714f7cca2e3c1a7e9d1be8691c53b41f3024e/Q3/Q3.c/isNumeric.png
+
+4. GenerateRandomString o/p:
+
