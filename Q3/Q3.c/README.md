@@ -10,4 +10,8 @@ https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/0dad724cc79b3
 https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/0d6714f7cca2e3c1a7e9d1be8691c53b41f3024e/Q3/Q3.c/isNumeric.png
 
 4. GenerateRandomString o/p:
+https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/ff48272252d4fd167091a8ef3949cda5e30ed297/Q3/Q3.c/GenerateRandomeString.png
+
+5. CountWords o/p:
+
 
