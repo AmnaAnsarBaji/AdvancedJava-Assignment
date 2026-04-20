@@ -11,3 +11,6 @@ https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/6f0e70bfd7986
 
 4.  isPalindrome o/p:
 https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/5abcd3918befa03fedf21bc4d346386b8ff6a855/Q3/Q3.b/isPalindrome.png
+
+5.  RemoveWhitespace o/p:
+https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/7408120f42cf5e954002b50abb19963dbdecd8c4/Q3/Q3.b/RemoveWhitespace.png
