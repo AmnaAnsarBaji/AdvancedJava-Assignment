@@ -11,3 +11,6 @@ Q1.b  Array List programs
 
 4. p4 o/p:
  https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/dfda17c3637a06bc02c71d070fd271283e7c6093/Q1/Q1.b/p4_output.png
+
+5. p5 o/p:
+ https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/f925557bc919837dbfeb8a1e46e043b28ff91781/Q1/Q1.b/p5_output.png
